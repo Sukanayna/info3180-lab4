@@ -18,3 +18,18 @@ body {
     border-top-left-radius: 0;
     border-top-right-radius: 0;
 }
+
+img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.image-container {
+    display: inline-block;
+    margin: 10px;
+    list-style-type: none;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
